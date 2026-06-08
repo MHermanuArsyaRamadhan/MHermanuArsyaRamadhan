@@ -187,7 +187,7 @@ package main
 import "fmt"
 
 type Hermanu struct {
-    FutsalPlayer      bool
+    TekkenPlayer      bool
     CoffeeEnjoyer     bool
     CurrentlyWatching []string
     Motto             string
@@ -195,7 +195,7 @@ type Hermanu struct {
 
 func main() {
     me := Hermanu{
-        FutsalPlayer:  true,
+        TekkenPlayer:  true,
         CoffeeEnjoyer: true,
         CurrentlyWatching: []string{
             "Hunter x Hunter",
@@ -203,8 +203,8 @@ func main() {
         },
         Motto: "A network is only as strong as the knowledge of the engineer behind it.",
     }
-    fmt.Printf("⚽ Futsal: %v\n☕ Coffee: %v\n📺 Watching: %v\n💭 Motto: %s\n",
-        me.FutsalPlayer, me.CoffeeEnjoyer, me.CurrentlyWatching, me.Motto)
+    fmt.Printf(" Tekken : %v\n☕ Coffee: %v\n📺 Watching: %v\n💭 Motto: %s\n",
+        me.TekkenPlayer, me.CoffeeEnjoyer, me.CurrentlyWatching, me.Motto)
 }
 ```
 
