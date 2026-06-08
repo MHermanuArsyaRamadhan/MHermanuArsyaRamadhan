@@ -1,16 +1,39 @@
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║               README — M. Hermanu Arsya Ramadhan            ║
+║          Edit bagian yang ditandai [EDIT] sesuai data kamu  ║
+╚══════════════════════════════════════════════════════════════╝
+-->
+
+<!-- ═══════════════════════════════════════════════════════════
+     HEADER BANNER
+     Ganti "text=" dengan nama kamu (spasi diganti %20)
+     Ganti "desc=" dengan deskripsi singkat kamu
+     "height" = tinggi banner, bisa diubah
+     ════════════════════════════════════════════════════════ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1E90FF&height=240&section=header&text=M.%20Hermanu%20Arsya%20Ramadhan&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Student%20%7C%20Cyber%20Security%20Enthusiast%20%7C%20Future%20Network%20Engineer&descAlignY=58&descSize=16&descColor=aaaaff"/>
 
 <div align="center">
 
+<!-- ═══════════════════════════════════════════════════════════
+     TYPING ANIMATION
+     Edit bagian "lines=" — pisahkan tiap kalimat dengan ";"
+     Spasi diganti "+" dan karakter khusus pakai URL encode
+     ════════════════════════════════════════════════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%BE;Telkom+University+%E2%80%94+Informatics+%2724;Go+Developer+%7C+Linux+Nerd;CTF+%26+Cyber+Security+Enthusiast;Always+Learning%2C+Always+Building." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%BE;Telkom+University+%E2%80%94+Informatics+%2725;Go+Developer+%7C+Linux+Nerd;CTF+%26+Cyber+Security+Enthusiast;Always+Learning%2C+Always+Building." />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=MHermanuArsyaRamadhan&label=Profile+Views&color=7B61FF&style=for-the-badge)
+<!-- ═══════════════════════════════════════════════════════════
+     BADGE PROFILE VIEWS & FOLLOWERS
+     Ganti "MHermanuArsyaRamadhan" dengan username GitHub kamu
+     di SEMUA bagian yang ada username tersebut
+     ════════════════════════════════════════════════════════ -->
+![Profile Views](https://komarev.com/ghpvc/?username=MHermanuArsyaRamadhan&label=Profile+Views&color=36BCF7&style=for-the-badge)
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/MHermanuArsyaRamadhan?label=Followers&style=for-the-badge&color=7B61FF&labelColor=1a1a2e)](https://github.com/MHermanuArsyaRamadhan)
+[![GitHub followers](https://img.shields.io/github/followers/MHermanuArsyaRamadhan?label=Followers&style=for-the-badge&color=36BCF7&labelColor=0d1117)](https://github.com/MHermanuArsyaRamadhan)
 
 </div>
 
@@ -18,26 +41,31 @@
 
 ## 👾 About Me
 
+<!-- ═══════════════════════════════════════════════════════════
+     ABOUT ME — Edit semua baris yang ada nilainya di sini
+     Ganti nama, universitas, jurusan, focus, os, dll
+     ════════════════════════════════════════════════════════ -->
 ```yaml
 ┌─────────────────────────────────────────────────────────┐
 │                    profile.yaml                         │
 ├─────────────────────────────────────────────────────────┤
-│  name        : M. Hermanu Arsya Ramadhan                │
-│  alias       : Hermanu                                  │
-│  university  : Telkom University                        │
-│  major       : Informatics Engineering                  │
+│  name        : M. Hermanu Arsya Ramadhan                │  <!-- [EDIT] Nama lengkap kamu -->
+│  alias       : Hermanu                                  │  <!-- [EDIT] Nama panggilan -->
+│  university  : Telkom University                        │  <!-- [EDIT] Nama universitas -->
+│  major       : Informatics Engineering                  │  <!-- [EDIT] Jurusan -->
+│  batch       : 2025                                     │  <!-- [EDIT] Angkatan -->
 │                                                         │
 │  focus:                                                 │
-│    - Computer Networking & Infrastructure               │
+│    - Computer Networking & Infrastructure               │  <!-- [EDIT] Tambah/hapus fokus -->
 │    - Cyber Security & Penetration Testing               │
 │    - Capture The Flag (CTF)                             │
 │    - Backend Development with Go                        │
 │                                                         │
-│  os          : Debian Linux (btw)                       │
-│  database    : MySQL                                    │
-│  editor      : VS Code                                  │
+│  os          : Debian Linux (btw)                       │  <!-- [EDIT] OS yang kamu pakai -->
+│  database    : MySQL                                    │  <!-- [EDIT] Database favorit -->
+│  editor      : VS Code                                  │  <!-- [EDIT] Code editor kamu -->
 │                                                         │
-│  status      : [ LEARNING & BUILDING ]                  │
+│  status      : [ LEARNING & BUILDING ]                  │  <!-- [EDIT] Status sekarang -->
 └─────────────────────────────────────────────────────────┘
 ```
 
@@ -45,6 +73,12 @@
 
 ## 🛠️ Tech Stack
 
+<!-- ═══════════════════════════════════════════════════════════
+     BADGES TECH STACK
+     Format: ![NamaBadge](https://img.shields.io/badge/LABEL-WARNA?style=for-the-badge&logo=LOGO&logoColor=white)
+     Cari nama logo di: https://simpleicons.org
+     Tambah/hapus badge sesuai skill kamu
+     ════════════════════════════════════════════════════════ -->
 <div align="center">
 
 ### Languages & Runtime
@@ -70,6 +104,12 @@
 
 ## 📊 Skill Progress
 
+<!-- ═══════════════════════════════════════════════════════════
+     SKILL PROGRESS BAR
+     Setiap █ = 10%, setiap ░ = kosong (total 10 karakter)
+     Contoh 70% = ███████░░░
+     Edit nama skill, bar, persentase, dan label sesuai kamu
+     ════════════════════════════════════════════════════════ -->
 ```text
 ╔══════════════════════════════════════════════════════════╗
 ║                   SKILL MATRIX v2.0                     ║
@@ -88,6 +128,11 @@
 
 ## 🎯 2025 Mission Board
 
+<!-- ═══════════════════════════════════════════════════════════
+     MISSION BOARD
+     ✅ = sudah selesai, 🔄 = sedang dikerjakan
+     Edit item dan persentase progress bar sesuai kondisi kamu
+     ════════════════════════════════════════════════════════ -->
 ```text
 ╔══════════════════════════════════════════════════════════╗
 ║              MISSION PROGRESS — 2025                    ║
@@ -110,15 +155,22 @@
 
 ## 📈 GitHub Stats
 
+<!-- ═══════════════════════════════════════════════════════════
+     GITHUB STATS CARDS
+     Ganti "username=MHermanuArsyaRamadhan" dengan username kamu
+     Theme bisa diganti: dark, radical, merko, tokyonight, dll
+     Lihat semua theme: https://github.com/anuraghazra/github-readme-stats
+     ════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MHermanuArsyaRamadhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B61FF&icon_color=7B61FF&text_color=c9d1d9&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MHermanuArsyaRamadhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&count_private=true"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHermanuArsyaRamadhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B61FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHermanuArsyaRamadhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=MHermanuArsyaRamadhan&theme=tokyonight&hide_border=true&background=0d1117&ring=7B61FF&fire=FF6B6B&currStreakLabel=7B61FF" />
+<!-- Streak stats — ganti username di bawah -->
+<img src="https://streak-stats.demolab.com?user=MHermanuArsyaRamadhan&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" />
 
 </div>
 
@@ -126,9 +178,13 @@
 
 ## 📅 Contribution Activity
 
+<!-- ═══════════════════════════════════════════════════════════
+     ACTIVITY GRAPH
+     Ganti username di URL bawah dengan username GitHub kamu
+     ════════════════════════════════════════════════════════ -->
 <div align="center">
 
-[![Hermanu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MHermanuArsyaRamadhan&bg_color=0d1117&color=7B61FF&line=7B61FF&point=ffffff&area=true&area_color=7B61FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Hermanu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MHermanuArsyaRamadhan&bg_color=0d1117&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=36BCF7&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -136,17 +192,31 @@
 
 ## 🐍 Contribution Snake
 
+<!-- ═══════════════════════════════════════════════════════════
+     SNAKE ANIMATION
+     Ganti "MHermanuArsyaRamadhan" (2x) dengan username kamu
+     Snake ini otomatis generate via GitHub Actions
+     Pastikan workflow snake sudah disetup di repo kamu
+     ════════════════════════════════════════════════════════ -->
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/MHermanuArsyaRamadhan/MHermanuArsyaRamadhan/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 
 </div>
 
+<!-- GIF animasi keyboard — bisa diganti URL gif lain -->
 <img src="https://user-images.githubusercontent.com/74038190/212259641-bfd5dca2-3c6f-4c6e-bf54-3e2f0f4f0ef3.gif" width="100%">
 
 ---
 
 ## 🌐 Interests & Domains
+
+<!-- ═══════════════════════════════════════════════════════════
+     TABEL MINAT
+     Edit baris di antara | ... | sesuai bidang kamu
+     Format: | Emoji Nama | Tools yang dipakai | Level |
+     ════════════════════════════════════════════════════════ -->
+<div align="center">
 
 | Domain | Tools / Topics | Level |
 |:------:|:--------------:|:-----:|
@@ -157,20 +227,27 @@
 | 💻 Backend Dev | Go, REST API | Proficient |
 | 🗄️ Database | MySQL, Query Optimization | Advanced |
 
+</div>
+
 ---
 
 ## ⚡ Fun Facts
 
+<!-- ═══════════════════════════════════════════════════════════
+     FUN FACTS dalam bentuk kode Go
+     Edit field di struct dan nilai di fungsi main()
+     Tambah field baru jika perlu, pastikan nama field sama
+     ════════════════════════════════════════════════════════ -->
 ```go
 package main
 
 import "fmt"
 
 type Hermanu struct {
-    FutsalPlayer      bool
-    CoffeeEnjoyer     bool
-    CurrentlyWatching []string
-    Motto             string
+    TekkenPlayer      bool   
+    CoffeeEnjoyer     bool   
+    CurrentlyWatching []string 
+    Motto             string  
 }
 
 func main() {
@@ -178,28 +255,56 @@ func main() {
         FutsalPlayer:  true,
         CoffeeEnjoyer: true,
         CurrentlyWatching: []string{
-            "Record of Ragnarok",
+            "Hunter x Hunter",    
             "JoJo's Bizarre Adventure",
         },
         Motto: "A network is only as strong as the knowledge of the engineer behind it.",
     }
-    fmt.Printf("⚽ Futsal: %v\n☕ Coffee: %v\n📺 Watching: %v\n💭 Motto: %s\n",
-        me.FutsalPlayer, me.CoffeeEnjoyer, me.CurrentlyWatching, me.Motto)
+    fmt.Printf(" Tekken: %v\n☕ Coffee: %v\n📺 Watching: %v\n💭 Motto: %s\n",
+        me.TekkenPlayer, me.CoffeeEnjoyer, me.CurrentlyWatching, me.Motto)
 }
 ```
 
 ---
 
-## 💭 Favorite Quote
+## 😄 Coding Mood
 
-> *"A network is only as strong as the knowledge of the engineer behind it."*
+<!-- ═══════════════════════════════════════════════════════════
+     GIF SECTION
+     Ganti URL src dengan link GIF yang kamu mau
+     width="200" bisa diubah untuk atur ukuran
+     Cari GIF di: https://giphy.com
+     ════════════════════════════════════════════════════════ -->
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Coding Cat"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="200" alt="Cute Duck"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Shrug"/>
+</div>
 
 ---
 
+## 💭 Favorite Quote
+
+<!-- ═══════════════════════════════════════════════════════════
+     QUOTE FAVORIT
+     Ganti teks di dalam tanda * * dengan quote pilihan kamu
+     ════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=7B61FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%BE;Happy+Coding+%F0%9F%9A%80;Keep+Learning%2C+Keep+Building!" />
+> *"A network is only as strong as the knowledge of the engineer behind it."*
 
 </div>
 
+---
+
+<!-- TYPING ANIMATION PENUTUP — edit "lines=" sama seperti di atas -->
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%BE;Happy+Coding+%F0%9F%9A%80;Keep+Learning%2C+Keep+Building!" />
+
+</div>
+
+<!-- FOOTER BANNER — warna bisa diubah sama seperti header di atas -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:36BCF7&height=120&section=footer"/>
