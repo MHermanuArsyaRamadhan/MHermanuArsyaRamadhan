@@ -74,64 +74,11 @@
 
 </div>
 
----
 
-## 📊 Skill Progress
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║                   SKILL MATRIX v2.0                     ║
-╠══════════════════════════════════════════════════════════╣
-║  Go Programming     ████████░░  80%  [ PROFICIENT ]     ║
-║  Linux / Debian     ███████░░░  75%  [ ADVANCED  ]      ║
-║  MySQL              ███████░░░  70%  [ ADVANCED  ]      ║
-║  Networking         ██████░░░░  60%  [ LEARNING  ]      ║
-║  Cyber Security     ██████░░░░  60%  [ LEARNING  ]      ║
-║  CTF Challenges     █████░░░░░  50%  [ GRINDING  ]      ║
-║  Git & GitHub       ██████░░░░  60%  [ LEARNING  ]      ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 🎯 2025 Mission Board
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════╗
-║              MISSION PROGRESS — 2025                    ║
-╠══════════════════════════════════════════════════════════╣
-║                                                         ║
-║  [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░] 90% Complete                  ║
-║                                                         ║
-║  ✅  Learn Golang — DONE                                ║
-║  ✅  Linux Administration — DONE                        ║
-║  ✅  Database Fundamentals — DONE                       ║
-║  ✅  Networking Basics — DONE                           ║
-║  🔄  Cyber Security — IN PROGRESS                       ║
-║  🔄  CTF Challenges — IN PROGRESS                       ║
-║  🔄  Build More Projects — IN PROGRESS                  ║
-║                                                         ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
 
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MHermanuArsyaRamadhan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&count_private=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHermanuArsyaRamadhan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9"/>
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=MHermanuArsyaRamadhan&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=FF6B6B&currStreakLabel=36BCF7" />
