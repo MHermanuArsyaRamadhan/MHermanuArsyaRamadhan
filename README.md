@@ -109,22 +109,6 @@
 
 ---
 
-## 🌐 Interests & Domains
-
-<div align="center">
-
-| Domain | Tools / Topics | Level |
-|:------:|:--------------:|:-----:|
-| 🌐 Networking | TCP/IP, DNS, Routing | Intermediate |
-| 🔐 Cyber Security | Pentest, OSINT, Forensics | Learning |
-| 🏴 CTF | PicoCTF, HackTheBox | Active |
-| 🐧 Linux | Debian, Bash Scripting | Advanced |
-| 💻 Backend Dev | Go, REST API | Proficient |
-| 🗄️ Database | MySQL, Query Optimization | Advanced |
-
-</div>
-
----
 
 ## ⚡ Fun Facts
 
@@ -157,29 +141,6 @@ func main() {
 
 ---
 
-## 😄 Coding Mood
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Coding Cat"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" width="200" alt="Cute Duck"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="Shrug"/>
-
-</div>
-
----
-
-## 💭 Favorite Quote
-
-<div align="center">
-
-> *"A network is only as strong as the knowledge of the engineer behind it."*
-
-</div>
-
----
 
 <div align="center">
 
